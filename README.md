@@ -3,6 +3,8 @@
 A responsive marketing landing page for a fictional QR digital-menu SaaS.
 Built as a portfolio project by **Andrei Sauchankau**.
 
+**Live demo:** https://menuly-murex.vercel.app
+
 ## Features
 
 - Live phone mockup with **3 switchable menu themes** and category tabs
